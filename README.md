@@ -9,4 +9,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Contador de visitas: 
-![Vayioleta]([https://counter.katomegumi.net/get/@vayioleta?theme=gelbooru])
+![Vayioleta](https://counter.katomegumi.net/get/@vayioleta?theme=gelbooru)
