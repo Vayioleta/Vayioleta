@@ -7,6 +7,3 @@
 Vayioleta/Vayioleta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-## Contador de visitas: 
-![Vayioleta](https://counter.katomegumi.net/get/@vayioleta?theme=gelbooru)
