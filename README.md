@@ -1,9 +1,7 @@
-## ¿Quien es Vayi?
-> - 👋 Hola soy @Vayioleta una desarrolladora de código abierto
-> - 🌱 creadora de contenido. 
-> - 💞️ Espero disfrutes mi trabajo. 
-> - 📫 Puedes apoyarme aqui: https://www.patreon.com/Vayioleta
-<!---
-Vayioleta/Vayioleta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## ¿Quién es Vayi?
+
+> 👋 Hola, soy **@Vayioleta**, una desarrolladora de código abierto apasionada por crear herramientas que realmente sirvan a las personas.
+> 🌸 Me encanta compartir lo que aprendo, por eso también soy **creadora de contenido** sobre tecnología, comunidad y transformación.
+> 🔧 Trabajo en proyectos que cruzan lo técnico con lo humano: código que ayuda, que transforma, que acompaña.
+> 💖 Si algo de lo que hago te inspira, te ayuda o te gusta, puedes **apoyarme aquí**: [patreon.com/Vayioleta](https://www.patreon.com/Vayioleta)
+> ✨ Gracias por estar aquí. Espero que disfrutes mi trabajo tanto como yo disfruto construirlo.
