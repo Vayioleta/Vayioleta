@@ -1,5 +1,4 @@
 <h2 align="center">🌸 Who is Vayi? 🌸</h2>
----
 
 <!-- English always expanded -->
 <h3>🇬🇧 English</h3>
