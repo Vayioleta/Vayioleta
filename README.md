@@ -125,3 +125,12 @@ Escribo código como quien escribe su historia: libre, honesta y con amor por lo
   <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
 </p>
 
+### 🎮 Motores & Creatividad 3D
+<p align="center">
+  <!-- Unity -->
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+
+  <!-- Blender -->
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+</p>
+
