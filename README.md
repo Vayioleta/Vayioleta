@@ -1,11 +1,4 @@
 <h2 align="center">🌸 Who is Vayi? 🌸</h2>
-
-<p align="center">
-  🇬🇧 English (default) · 
-  <a href="#es">🇪🇸 Español</a> · 
-  <a href="#ja">🇯🇵 日本語</a>
-</p>
-
 ---
 
 <!-- English always expanded -->
