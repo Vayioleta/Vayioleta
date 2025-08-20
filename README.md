@@ -6,7 +6,7 @@ Escribo código como quien escribe su historia: libre, honesta y enfocada en tra
 🔥 Código abierto, sin puertas cerradas.<br>
 ✨ Compartir por encima de competir.<br><br>
 🖤 Si algo de lo que creo te movió: <a href="https://www.patreon.com/Vayioleta">Patreon</a>
-<b>🖤 Mi blog: <a href="https://vayioleta.github.io/">Patreon</a></b>
+<b>🖤 Mi blog: <a href="https://vayioleta.github.io/">vayioleta Blog</a></b>
 </p>
 
 ---
